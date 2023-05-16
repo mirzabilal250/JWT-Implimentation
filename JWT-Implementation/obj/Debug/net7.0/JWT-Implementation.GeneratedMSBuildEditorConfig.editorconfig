@@ -1,0 +1,17 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = JWT_Implementation
+build_property.RootNamespace = JWT_Implementation
+build_property.ProjectDir = C:\Users\bilal\OneDrive\Desktop\dotnetcore by Bilal\JWT-Implementation\JWT-Implementation\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\bilal\OneDrive\Desktop\dotnetcore by Bilal\JWT-Implementation\JWT-Implementation
+build_property._RazorSourceGeneratorDebug = 
